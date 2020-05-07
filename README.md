@@ -18,7 +18,7 @@ in sync across different machines. The client, which hosts the source folder,
 uploads notifies a remote server of changes to be applied to the destination
 folder.
 
-![static/NopBox.png](NopBox)
+![NopBox](static/NopBox.png)
 
 ### Features
 
