@@ -21,7 +21,10 @@ folder.
 ![NopBox](static/NopBox.png)
 
 ### Features
-
+NopBox aims to be:
+- fast: avoid redundant transfers
+- secure: employ encryption and authentication schemes to protect against
+active and passive adversaries
 
 ## Usage
 
