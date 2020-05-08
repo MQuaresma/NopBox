@@ -1,5 +1,5 @@
 CC=gcc
-CFLAGS=-O2
+CFLAGS=-O2 -Wall
 BINARY=server
 
 .PHONY: all
@@ -8,4 +8,4 @@ all:
 
 .PHONY: clean
 clean:
-	@echo "CLEAN"
+	rm -rf $(BINARY)
